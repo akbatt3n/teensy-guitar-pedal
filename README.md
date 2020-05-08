@@ -1,5 +1,5 @@
 This project is no longer under development.
-This was a senior design project, so I'm keeping this repo as an archive while I develop v2.
+This was a senior design project, so I'm keeping this repo as an archive while I develop the [Teensy Pedal v2.](https://github.com/akbatt3n/teensy-pedal-v2)
 
 # Teensy Guitar Pedal
 Designed for Teensy 3.6 with Teensy Audio Adaptor
